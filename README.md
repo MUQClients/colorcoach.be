@@ -1,2 +1,2 @@
 # colorcoach.be
-ColorCoach.be
+Colorcoach.be
