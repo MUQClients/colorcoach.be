@@ -1,0 +1,88 @@
+/* Changes by KJR - MUQPO.be, 20240415. */
+body{
+  padding-top: 56px;
+}
+.my-4{
+  color: #98777b;
+}
+.carousel-item{
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.portfolio-item{
+  margin-bottom: 30px;
+}
+/* KJR: achtergrond header */
+.bg-dark{
+  background-color: #947798 !important;
+}
+/* KJR: achtergrond footer */
+.py-5{
+  background-color: rgba(127, 17, 224, 1);
+}
+/* KJR: kleur menuitems */
+.navbar-dark .navbar-nav .nav-link{
+  color: rgba(253, 232, 200, 1);
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover { 
+  color: rgba(148, 119, 152, 1);
+  text-shadow: 0.3px 0.3px #1a0000;
+}
+.navbar-toggler-icon{
+  background-color: rgba(148, 119, 152, 1);
+}
+.navbar-toggler{
+  background-color: rgba(148, 119, 152, 1);
+}
+.navbar-toggler:focus{
+  background-color: rgba(152, 119, 123, 1);
+}
+.carousel-caption{
+  color: #fff;
+}
+.carousel-inner{
+  margin-top: 60px;
+}
+.sbperson{
+  color: #007bff;
+}
+.muqpo{
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+}
+.muqpo a{
+  color: #fff;
+}
+.colorcoach a{
+  color: #98777b !important;
+}
+.colorcoach{
+  color: #98777b !important;
+}
+.container a{
+  color: #fff;
+  font-weight: bold;
+}
+.btn-secondary{
+  border-color: rgba(152, 119, 123, 1);
+  background-color: rgba(123, 152, 119, 1);
+}
+.btn-secondary:hover
+{
+  border-color: rgba(152, 119, 123, 1);
+  background-color: rgba(148, 119, 152, 1);
+}
+
+@include color-mode(dark) {
+  background-color: rgba(127, 17, 224, 1);
+}
+
+/* Copyright 2024 MUQPO.be - KJR. */
+/* Website as a service by MUQPO.be */
+/* - - - - - - - - - - - - - - - -  */
