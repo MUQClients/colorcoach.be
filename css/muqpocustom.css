@@ -25,6 +25,14 @@ body{
 .text-white{
   color: rgba(253, 232, 200, 1)  !important;
 }
+
+.footercolorcoach a{
+  color: rgba(253, 232, 200, 1)  !important;
+}
+.footercolorcoach{
+  color: rgba(253, 232, 200, 1)  !important;
+}
+
 /* KJR: achtergrond footer */
 .py-5{
   background-color: rgba(127, 17, 224, 1);
