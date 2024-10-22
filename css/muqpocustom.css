@@ -26,10 +26,10 @@ body{
   color: rgba(253, 232, 200, 1)  !important;
 }
 /* KJR: tekstkleur hyperlinks footer */
-.footercolorcoach a{
+.footercc a{
   color: rgba(253, 232, 200, 1)  !important;
 }
-.footercolorcoach{
+.footercc{
   color: rgba(253, 232, 200, 1)  !important;
 }
 /* KJR: achtergrond footer */
