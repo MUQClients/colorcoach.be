@@ -23,7 +23,7 @@ body{
 }
 /* KJR: tekstkleur footer */
 .text-white{
-  color: rgba(253, 232, 200, 1);
+  color: rgba(253, 232, 200, 1)  !important;
 }
 /* KJR: achtergrond footer */
 .py-5{
